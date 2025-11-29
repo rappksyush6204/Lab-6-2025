@@ -1,0 +1,10 @@
+*.class
+**/*.class
+.DS_Store
+target/
+bin/
+build/
+.idea/
+*.iml
+.vscode/
+*.log
